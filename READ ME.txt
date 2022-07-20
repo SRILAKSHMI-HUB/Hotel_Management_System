@@ -1,0 +1,11 @@
+TEAM 1:
+
+D.JAHNAVI 18MIS1012
+K.JAYASRI 18MIS1063
+P.SRI LAKSHMI 18MIS1058
+
+.
+>(frame.html) is our home page(main frame)
+>frame 1 is (saved as link.html )and which contains list ,mailto .here we used target it will display number.html which is frame4,in list we gave numbers of the hotel if we press it the target is in frame4 the target link is saved as(number.html,number1.html,number2.html,number3.html)
+> frame 2(admin user.html (images we used here are admin.html and user.html))is another file in which we used image mapping if we press we get a login page(saved as login.html) ,if we are a new customer login to (newlogin.html)after submiting that we get a form (saved as submit.html) and we used top to go top of the page when we press it
+>(frame3)contains images in tables about hotel and there is an marquee applied to the heading(saved as image.html (in which we used images Capture11.html,Capture2.html,Capture3.html,Capture4.html,Capture5.html,Capture6.html,Capture7.html))
